@@ -23,5 +23,5 @@ The module is accessed with "packagename.modulename" and not with "modulename"
 
 ### Objects in modules
 ##### 1. Calling a module's functions
-We can call a module's function with `modulenameobjectname` 
+We can call a module's function with `modulename.objectname` 
 
